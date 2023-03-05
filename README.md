@@ -15,4 +15,4 @@ This website is a part of the Odin Project, in the Foundations part. This websit
 
 ## Guide/Reference
 This website was created following the Odin Project.
-You can find the reference here <a href="https://www.theodinproject.com/lessons/foundations-recipes">
+You can find the reference [here](https://www.theodinproject.com/lessons/foundations-recipes)
