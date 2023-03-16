@@ -4,8 +4,17 @@ body {
     background-color: #e6b794;
 }
 
+h1.recipe  {
+    background-color: #ebeae5;
+}
+
 /* Class Selectors */
 .demonstration-image {
     height: 300px;
     width: 300px;
+}
+
+.preview-image {
+    height: auto;
+    width: 360px;
 }
