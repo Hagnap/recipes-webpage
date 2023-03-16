@@ -3,3 +3,9 @@
 body {
     background-color: #e6b794;
 }
+
+/* Class Selectors */
+.demonstration-image {
+    height: 300px;
+    width: 300px;
+}
