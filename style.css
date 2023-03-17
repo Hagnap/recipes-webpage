@@ -9,6 +9,14 @@ body {
     background-color: #e6b794;
 }
 
+ol {
+    list-style-position:inside;
+}
+
+h2 {
+    font-size: 20px;
+}
+
 h1.recipe  {
     background-color: #ebeae5;
 }
@@ -17,10 +25,6 @@ ol,
 ul {
     padding-left: 0;
     text-align:left;
-}
-
-ol {
-    list-style-position:inside;
 }
 
 
