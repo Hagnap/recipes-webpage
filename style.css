@@ -1,12 +1,10 @@
 /* Universal Selectors */
 * {
     text-align: center;
-    
 }
 
 
 /* Type Selectors */
-
 body {
     background-color: #e6b794;
 }
@@ -18,15 +16,12 @@ h1.recipe  {
 ol,
 ul {
     padding-left: 0;
-    
-    
     text-align:left;
 }
 
 ol {
     list-style-position:inside;
 }
-
 
 
 /* Class Selectors */
