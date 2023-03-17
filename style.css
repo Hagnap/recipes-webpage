@@ -8,6 +8,7 @@ h1.recipe  {
     background-color: #ebeae5;
 }
 
+
 /* Class Selectors */
 .demonstration-image {
     height: 300px;
@@ -17,4 +18,9 @@ h1.recipe  {
 .preview-image {
     height: auto;
     width: 360px;
+}
+
+.link-text {
+    font-style: italic;
+    color:black
 }
