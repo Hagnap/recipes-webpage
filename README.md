@@ -2,7 +2,7 @@
 
 
 ## Link to Website
-https://jhagg26.github.io/recipes-webpage/index.html
+https://hagnap.github.io/recipes-webpage/index.html
 
 ## Description
 This website is a part of the Odin Project, in the Foundations part. This website will feature three webpages, one for each recipe. Each website will have a brief description of the meal, an image of the finished result, and the recipe. The recipes come from TV Shows that I am a fan of. I wanted to choose something fun and recipe related, so that is why I chose these recipes. 
